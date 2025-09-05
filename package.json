@@ -1,0 +1,9 @@
+{
+  "name": "telegram-proxy",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
